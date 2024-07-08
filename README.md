@@ -6,3 +6,6 @@
   <hr>
 Jezik: Java
 </hr>
+<ht>
+  Okruzenje: Swing i Window Builder u Eclipse IDE
+</ht>
