@@ -1,0 +1,9 @@
+ID sobe, Tip sobe
+99,jednokrevetna,slobodno,TV,Internet
+100,dvokrevetna(2),slobodno,Klima,Internet,Balkon
+101,trokrevetna(2+1),slobodno,Klima,Internet
+102,trokrevetna(2+1),slobodno,Klima,Balkon
+103,jednokrevetna,slobodno,TV,Klima
+104,dvokrevetna(2),slobodno,Balkon,Internet
+105,dvokrevetna(1+1),zauzeto,Klima,Balkon,TV
+106,dvokrevetna(1+1),slobodno,Internet
